@@ -1,1 +1,0 @@
-testing ability to sign git commits with cosign
